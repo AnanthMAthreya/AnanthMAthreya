@@ -2,7 +2,7 @@
 - 👀 I’m interested in AIML and IOT
 - 🌱 I’m currently learning Machine Learning, Gen AI and Image processing
 - 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 How to reach me? My email id ananthmathreya@gmail.com
+- 📫 How to reach me? My email id ananthmathreya@gmail.com [Linkedin](www.linkedin.com/in/ananth-m-athreya-963262287)
 - 😄 Pronouns: He/him
 
 <!---
